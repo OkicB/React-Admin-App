@@ -1,0 +1,35 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "Post One",
+      "body": "This is the post body",
+      "publishedAt": "04-12-2021"
+    },
+    {
+      "id": "2",
+      "title": "Post Two",
+      "body": "This is the post body",
+      "publishedAt": "04-12-2021"
+    },
+    {
+      "id": "3",
+      "title": "Post Three",
+      "body": "This is the post body",
+      "publishedAt": "04-12-2021",
+      "nody": "Post for test"
+    }
+  ],
+  "users": [
+    {
+      "id": "1",
+      "name": "Bekir Okić",
+      "email": "bekir@okic.com"
+    },
+    {
+      "name": "Omer Okić",
+      "email": "omer@okic.com",
+      "id": "wFTPEQa"
+    }
+  ]
+}
